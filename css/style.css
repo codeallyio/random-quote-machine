@@ -1,0 +1,12 @@
+body {
+    background-color: #73a857;
+    color: #ffffff;
+    font-family: "Arial", sans-serif;
+    line-height: 1.2;
+  }
+  
+  #wrapper {
+    margin-top: 10rem;
+    display: flex;
+    justify-content: center;
+  }
